@@ -1,3 +1,43 @@
+## React Base App for Bootcamp 2020 Class 2 onwards: Learning React.
+
+We will create a React base app to start learning React
+
+1. Create React Project using Create React App
+
+https://create-react-app.dev/docs/getting-started
+
+https://github.com/facebook/create-react-app
+
+Use the following command:
+
+npx create-react-app react-base-app
+
+2. Open created directory/project in VS Code
+
+3. Give following commands to view app in browser:
+
+cd react-base-app
+
+npm start
+
+4. Now we will be adding the project we just created to GitHub using the command line:
+
+https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line
+
+5. Create GitHub Actions Workflow of deploying a the React App to Surge, there is a bug in the workflow your job is to debug it.
+
+6. When the React App is running locally and remotely on the surge we will start learning React from the following tutorial:
+
+https://daveceddia.com/react-tutorial/
+
+Note: We will start writing React code in App.js and other component files
+
+7. Once you have completed this assignment and everthing is running please report it with your github repo UTL and surge website URL in:
+
+https://github.com/panacloud/Base-React-App/issues
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
